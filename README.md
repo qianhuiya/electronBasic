@@ -9,7 +9,7 @@
 npm install
 
 # serve with hot reload at localhost:9080
-npm run dev
+npm run serve
 
 # build electron application for production
 npm run build
